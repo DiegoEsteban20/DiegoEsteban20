@@ -11,6 +11,8 @@ Técnico en Conectividad y Redes y estudiante de **Ingeniería en Conectividad y
 | Proyecto | Qué hace | Tecnologías |
 | --- | --- | --- |
 | [diagnostico-conectividad](https://github.com/DiegoEsteban20/diagnostico-conectividad) | Monitoreo de hosts con ping/puertos, traceroute ante fallas, reporte HTML, SLA y alertas por cambio de estado | PowerShell |
+| [respaldo-config-red](https://github.com/DiegoEsteban20/respaldo-config-red) | Respaldo de configuraciones de routers/switches/firewalls por SSH con control de cambios (diff) y reporte HTML | Python, netmiko, keyring |
+| [calculadora-subredes](https://github.com/DiegoEsteban20/calculadora-subredes) | Subnetting y VLSM con tabla en Excel y configuración Cisco de ejemplo (VLAN, DHCP, OSPF, RIPv2) | Python, ipaddress |
 | [network-assistant](https://github.com/DiegoEsteban20/network-assistant) | Menú de diagnóstico de red con troubleshooting automático por capas y reporte HTML | Python, psutil |
 | [virustotal-monitor](https://github.com/DiegoEsteban20/virustotal-monitor) | Revisa en tiempo real cada descarga contra la API de VirusTotal | Python, API REST |
 | [buscador-pegas-redes](https://github.com/DiegoEsteban20/buscador-pegas-redes) | Busca y prioriza ofertas de trabajo de redes en 4 portales chilenos | PowerShell, regex, Excel |
