@@ -10,6 +10,7 @@ Técnico en Conectividad y Redes y estudiante de **Ingeniería en Conectividad y
 
 | Proyecto | Qué hace | Tecnologías |
 | --- | --- | --- |
+| [centinela-pc](https://github.com/DiegoEsteban20/centinela-pc) | Blue-team: muestra las IP conectadas a tu PC y los intentos de inicio de sesión (fuerza bruta, accesos remotos) en un reporte HTML | PowerShell |
 | [monitor-internet](https://github.com/DiegoEsteban20/monitor-internet) | Mide velocidad, latencia, jitter y pérdida de paquetes en el tiempo y arma un reporte HTML con gráficos y las horas malas | Python |
 | [diagnostico-conectividad](https://github.com/DiegoEsteban20/diagnostico-conectividad) | Monitoreo de hosts con ping/puertos, traceroute ante fallas, reporte HTML, SLA y alertas por cambio de estado | PowerShell |
 | [respaldo-config-red](https://github.com/DiegoEsteban20/respaldo-config-red) | Respaldo de configuraciones de routers/switches/firewalls por SSH con control de cambios (diff) y reporte HTML | Python, netmiko, keyring |
