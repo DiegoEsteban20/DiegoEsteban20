@@ -23,4 +23,4 @@ Técnico en Conectividad y Redes y estudiante de **Ingeniería en Conectividad y
 
 **Proyecto de título:** red rural híbrida de fibra óptica e inalámbrica (Ubiquiti, Radio Mobile, GNS3) para Río Pescado, Puerto Varas.
 
-📫 [LinkedIn](https://www.linkedin.com/in/diego-esteban-m-4a2673254) · diegomolinaromero12@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/diego-esteban24) · diegomolinaromero12@gmail.com
